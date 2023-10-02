@@ -1,0 +1,502 @@
+[
+        {
+            "id": 1,
+            "phrase": "Félicitations pour avoir terminé cette tâche avec succès !",
+            "likes": 0
+          },
+          {
+            "id": 2,
+            "phrase": "Ton efficacité est vraiment impressionnante !",
+            "likes": 0
+          },
+          {
+            "id": 3,
+            "phrase": "Bravo pour ta concentration et ta productivité !",
+            "likes": 0
+          },
+          {
+            "id": 4,
+            "phrase": "Ton travail assidu porte ses fruits, continue ainsi !",
+            "likes": 0
+          },
+          {
+            "id": 5,
+            "phrase": "C'est un plaisir de voir ta persévérance récompensée !",
+            "likes": 0
+          },
+          {
+            "id": 6,
+            "phrase": "Ton engagement est admirable, continue sur cette voie !",
+            "likes": 0
+          },
+          {
+            "id": 7,
+            "phrase": "Tu es vraiment efficace dans ce que tu entreprends !",
+            "likes": 0
+          },
+          {
+            "id": 8,
+            "phrase": "C'est formidable de voir tes résultats !",
+            "likes": 0
+          },
+          {
+            "id": 9,
+            "phrase": "Ton talent brille à travers cette réalisation.",
+            "likes": 0
+          },
+          {
+            "id": 10,
+            "phrase": "Ton dévouement est une source d'inspiration pour nous tous !",
+            "likes": 0
+          },
+          {
+            "id": 11,
+            "phrase": "Tes compétences sont vraiment exceptionnelles !",
+            "likes": 0
+          },
+          {
+            "id": 12,
+            "phrase": "Chaque jour, tu deviens meilleur(e) dans ce que tu fais !",
+            "likes": 0
+          },
+          {
+            "id": 13,
+            "phrase": "Ton travail est d'une grande qualité, continue comme ça !",
+            "likes": 0
+          },
+          {
+            "id": 14,
+            "phrase": "Toutes tes heures de travail acharné paient enfin !",
+            "likes": 0
+          },
+          {
+            "id": 15,
+            "phrase": "Ton succès est le reflet de ton dévouement !",
+            "likes": 0
+          },
+          {
+            "id": 16,
+            "phrase": "C'est un honneur de travailler à tes côtés !",
+            "likes": 0
+          },
+          {
+            "id": 17,
+            "phrase": "Ton professionnalisme est exemplaire !",
+            "likes": 0
+          },
+          {
+            "id": 18,
+            "phrase": "Chacune de tes réalisations nous inspire tous !",
+            "likes": 0
+          },
+          {
+            "id": 19,
+            "phrase": "Ton expertise est inestimable !",
+            "likes": 0
+          },
+          {
+            "id": 20,
+            "phrase": "C'est impressionnant de voir comment tu surmontes les défis !",
+            "likes": 0
+          },
+          {
+            "id": 21,
+            "phrase": "Ton attitude positive est une force inestimable !",
+            "likes": 0
+          },
+          {
+            "id": 22,
+            "phrase": "Ton excellence est une source d'inspiration pour nous tous !",
+            "likes": 0
+          },
+          {
+            "id": 23,
+            "phrase": "Bravo pour ton attitude proactive et déterminée !",
+            "likes": 0
+          },
+          {
+            "id": 24,
+            "phrase": "Chaque jour, tu élèves notre niveau de qualité !",
+            "likes": 0
+          },
+          {
+            "id": 25,
+            "phrase": "Ton professionnalisme est vraiment impressionnant !",
+            "likes": 0
+          },
+          {
+            "id": 26,
+            "phrase": "Ton enthousiasme est contagieux, merci de le partager avec nous !",
+            "likes": 0
+          },
+          {
+            "id": 27,
+            "phrase": "C'est un privilège de travailler à tes côtés !",
+            "likes": 0
+          },
+          {
+            "id": 28,
+            "phrase": "Ton sens de la responsabilité est admirable !",
+            "likes": 0
+          },
+          {
+            "id": 29,
+            "phrase": "Tu es un exemple de détermination et de succès !",
+            "likes": 0
+          },
+          {
+            "id": 30,
+            "phrase": "Ton leadership est remarquable, continue d'inspirer les autres !",
+            "likes": 0
+          },
+          {
+            "id": 31,
+            "phrase": "Ton expertise est une ressource inestimable !",
+            "likes": 0
+          },
+          {
+            "id": 32,
+            "phrase": "Tu es un modèle de persévérance et de réussite !",
+            "likes": 0
+          },
+          {
+            "id": 33,
+            "phrase": "Chacune de tes réalisations est un pas de plus vers le succès !",
+            "likes": 0
+          },
+          {
+            "id": 34,
+            "phrase": "Ton dévouement est une inspiration pour nous tous !",
+            "likes": 0
+          },
+          {
+            "id": 35,
+            "phrase": "Bravo pour ta précision et ton souci du détail !",
+            "likes": 0
+          },
+          {
+            "id": 36,
+            "phrase": "Ton sens de l'organisation est vraiment impressionnant !",
+            "likes": 0
+          },
+          {
+            "id": 37,
+            "phrase": "Ton attitude positive est un atout précieux pour notre équipe !",
+            "likes": 0
+          },
+          {
+            "id": 38,
+            "phrase": "Ton succès est mérité, tu y as travaillé dur !",
+            "likes": 0
+          },
+          {
+            "id": 39,
+            "phrase": "Bravo pour avoir relevé ce défi avec brio !",
+            "likes": 0
+          },
+          {
+            "id": 40,
+            "phrase": "Ton engagement envers l'excellence est inégalé !",
+            "likes": 0
+          },
+          {
+            "id": 41,
+            "phrase": "Ton travail acharné est une source d'inspiration pour nous tous !",
+            "likes": 0
+          },
+          {
+            "id": 42,
+            "phrase": "C'est impressionnant de voir ta croissance professionnelle !",
+            "likes": 0
+          },
+          {
+            "id": 43,
+            "phrase": "Ton dévouement à la réussite est admirable !",
+            "likes": 0
+          },
+          {
+            "id": 44,
+            "phrase": "Bravo pour avoir atteint cet objectif avec succès !",
+            "likes": 0
+          },
+          {
+            "id": 45,
+            "phrase": "Ton excellence est un modèle pour nous tous !",
+            "likes": 0
+          },
+          {
+            "id": 46,
+            "phrase": "Ton professionnalisme est vraiment exemplaire !",
+            "likes": 0
+          },
+          {
+            "id": 47,
+            "phrase": "Ton expertise est un atout précieux pour notre équipe !",
+            "likes": 0
+          },
+          {
+            "id": 48,
+            "phrase": "Chacune de tes réalisations est une source d'inspiration !",
+            "likes": 0
+          },
+          {
+            "id": 49,
+            "phrase": "Ton sens des responsabilités est admirable, continue ainsi !",
+            "likes": 0
+          },
+          {
+            "id": 50,
+            "phrase": "Félicitations pour avoir fait de l'excellence ta norme !",
+            "likes": 0
+          },
+      {
+        "id": 51,
+        "phrase": "Ta persévérance est une source d'inspiration pour nous tous !",
+        "likes": 0
+      },
+      {
+        "id": 52,
+        "phrase": "Ton engagement envers la réussite est exceptionnel !",
+        "likes": 0
+      },
+      {
+        "id": 53,
+        "phrase": "C'est formidable de voir ta passion porter ses fruits !",
+        "likes": 0
+      },
+      {
+        "id": 54,
+        "phrase": "Ton sens du détail est vraiment impressionnant !",
+        "likes": 0
+      },
+      {
+        "id": 55,
+        "phrase": "Bravo pour avoir relevé ce défi avec brio une fois de plus !",
+        "likes": 0
+      },
+      {
+        "id": 56,
+        "phrase": "Ton leadership est inestimable pour notre équipe !",
+        "likes": 0
+      },
+      {
+        "id": 57,
+        "phrase": "Ton travail acharné est une source d'inspiration pour nous tous !",
+        "likes": 0
+      },
+      {
+        "id": 58,
+        "phrase": "Félicitations pour ton expertise exceptionnelle !",
+        "likes": 0
+      },
+      {
+        "id": 59,
+        "phrase": "Ton dévouement envers la qualité est inégalé !",
+        "likes": 0
+      },
+      {
+        "id": 60,
+        "phrase": "Ton attitude positive est un atout précieux pour notre équipe !",
+        "likes": 0
+      },
+      {
+        "id": 61,
+        "phrase": "C'est impressionnant de voir ta croissance professionnelle continue !",
+        "likes": 0
+      },
+      {
+        "id": 62,
+        "phrase": "Ton excellence est un modèle pour nous tous !",
+        "likes": 0
+      },
+      {
+        "id": 63,
+        "phrase": "Ton professionnalisme est vraiment exemplaire !",
+        "likes": 0
+      },
+      {
+        "id": 64,
+        "phrase": "Ton expertise est un atout inestimable pour notre équipe !",
+        "likes": 0
+      },
+      {
+        "id": 65,
+        "phrase": "Chacune de tes réalisations est une source d'inspiration !",
+        "likes": 0
+      },
+      {
+        "id": 66,
+        "phrase": "Ton sens des responsabilités est admirable, continue ainsi !",
+        "likes": 0
+      },
+      {
+        "id": 67,
+        "phrase": "Félicitations pour avoir fait de l'excellence ta norme !",
+        "likes": 0
+      },
+      {
+        "id": 68,
+        "phrase": "Ton engagement envers la qualité est une source d'admiration !",
+        "likes": 0
+      },
+      {
+        "id": 69,
+        "phrase": "C'est un honneur de travailler à tes côtés !",
+        "likes": 0
+      },
+      {
+        "id": 70,
+        "phrase": "Ton succès est un témoignage de ton talent exceptionnel !",
+        "likes": 0
+      },
+      {
+        "id": 71,
+        "phrase": "Bravo pour avoir relevé ce défi avec tant d'assurance !",
+        "likes": 0
+      },
+      {
+        "id": 72,
+        "phrase": "Ton dévouement envers l'excellence est une source d'inspiration !",
+        "likes": 0
+      },
+      {
+        "id": 73,
+        "phrase": "Ton professionnalisme est une référence pour nous tous !",
+        "likes": 0
+      },
+      {
+        "id": 74,
+        "phrase": "Ton expertise est d'une grande valeur pour notre équipe !",
+        "likes": 0
+      },
+      {
+        "id": 75,
+        "phrase": "Chaque jour, tu nous montres la voie vers le succès !",
+        "likes": 0
+      },
+      {
+        "id": 76,
+        "phrase": "Ton engagement envers la qualité est vraiment inspirant !",
+        "likes": 0
+      },
+      {
+        "id": 77,
+        "phrase": "Félicitations pour ta détermination et ta persévérance !",
+        "likes": 0
+      },
+      {
+        "id": 78,
+        "phrase": "Ton succès est la preuve de ton incroyable travail acharné !",
+        "likes": 0
+      },
+      {
+        "id": 79,
+        "phrase": "Ton leadership est un atout précieux pour notre équipe !",
+        "likes": 0
+      },
+      {
+        "id": 80,
+        "phrase": "Ton excellence est un exemple pour nous tous !",
+        "likes": 0
+      },
+      {
+        "id": 81,
+        "phrase": "Ton professionnalisme est vraiment exemplaire !",
+        "likes": 0
+      },
+      {
+        "id": 82,
+        "phrase": "Ton expertise est une ressource inestimable pour notre équipe !",
+        "likes": 0
+      },
+      {
+        "id": 83,
+        "phrase": "Chacune de tes réalisations est une source d'inspiration !",
+        "likes": 0
+      },
+      {
+        "id": 84,
+        "phrase": "Ton sens des responsabilités est admirable, continue ainsi !",
+        "likes": 0
+      },
+      {
+        "id": 85,
+        "phrase": "Félicitations pour avoir fait de l'excellence ta norme !",
+        "likes": 0
+      },
+      {
+        "id": 86,
+        "phrase": "Ton engagement envers la qualité est une source d'admiration !",
+        "likes": 0
+      },
+      {
+        "id": 87,
+        "phrase": "C'est un honneur de travailler à tes côtés !",
+        "likes": 0
+      },
+      {
+        "id": 88,
+        "phrase": "Ton succès est un témoignage de ton talent exceptionnel !",
+        "likes": 0
+      },
+      {
+        "id": 89,
+        "phrase": "Bravo pour avoir relevé ce défi avec tant d'assurance !",
+        "likes": 0
+      },
+      {
+        "id": 90,
+        "phrase": "Ton dévouement envers l'excellence est une source d'inspiration !",
+        "likes": 0
+      },
+      {
+        "id": 91,
+        "phrase": "Ton professionnalisme est une référence pour nous tous !",
+        "likes": 0
+      },
+      {
+        "id": 92,
+        "phrase": "Ton expertise est d'une grande valeur pour notre équipe !",
+        "likes": 0
+      },
+      {
+        "id": 93,
+        "phrase": "Chaque jour, tu nous montres la voie vers le succès !",
+        "likes": 0
+      },
+      {
+        "id": 94,
+        "phrase": "Ton engagement envers la qualité est vraiment inspirant !",
+        "likes": 0
+      },
+      {
+        "id": 95,
+        "phrase": "Félicitations pour ta détermination et ta persévérance !",
+        "likes": 0
+      },
+      {
+        "id": 96,
+        "phrase": "Ton succès est la preuve de ton incroyable travail acharné !",
+        "likes": 0
+      },
+      {
+        "id": 97,
+        "phrase": "Ton leadership est un atout précieux pour notre équipe !",
+        "likes": 0
+      },
+      {
+        "id": 98,
+        "phrase": "Ton excellence est un exemple pour nous tous !",
+        "likes": 0
+      },
+      {
+        "id": 99,
+        "phrase": "Ton professionnalisme est vraiment exemplaire !",
+        "likes": 0
+      },
+      {
+        "id": 100,
+        "phrase": "Ton expertise est une ressource inestimable pour notre équipe !",
+        "likes": 0
+      }
+    ]
