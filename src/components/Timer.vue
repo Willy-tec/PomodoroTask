@@ -2,11 +2,10 @@
 import { ref, watch } from 'vue'
 import  {Timer}  from '../services/timer.ts'
 import confetti from 'canvas-confetti'
-
+import audioSrc from '../assets/success.mp3'
 const props = defineProps<{ min: number, sec:number }>()
 const emitTimerSuccess = defineEmits(['timerSuccess'])
 
-const audioSrc = '/audio/success.mp3';
 function playNotificationSound(){
     const audio = new Audio(audioSrc)
     audio.play()
