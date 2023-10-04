@@ -31,21 +31,9 @@ const currentTimer = computed(()=>{
             return {min:settings.value.longBreakTime, sec:0}
     }
 })
-// const currentTimer = computed(()=>{
-//     switch(actualState.value){
-//         case TimerState.WORK:
-//             return {min:0, sec:2}
-//         case TimerState.BREAK:
-//             return {min:0, sec:3}
-//         case TimerState.LONG_BREAK:
-//             return {min:0, sec:6}
-//     }
-// })
 </script>
 
 
 <template>
-<Timer @timer-success="changeState"  :min='currentTimer.min' :sec="currentTimer.sec"></Timer>
-<!-- <Timer @timer-success="changeState" v-if="actualState==TimerState.BREAK" :min='settings.breakTime' :sec="0"></Timer>
-<Timer @timer-success="changeState" v-if="actualState==TimerState.LONG_BREAK" :min='settings.longBreakTime' :sec="0"></Timer> -->
+<Timer @timer-success="changeState"  :min='currentTimer.min' :sec="currentTimer.sec" :audio-volume="settings.volume/100" :confetti="settings.animation"></Timer>
 </template>
