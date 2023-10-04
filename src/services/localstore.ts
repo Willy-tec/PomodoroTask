@@ -1,5 +1,5 @@
 import { Settings } from '@/types/setting.js'
-import  {Task, TaskList}  from '../type.ts'
+import  { TaskList}  from '../type.ts'
 
 export const getLocalStore = (key:string) => {
   let answer = localStorage.getItem(key)
