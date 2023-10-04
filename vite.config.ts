@@ -13,7 +13,7 @@ export default defineConfig({
       theme_color: '#ffffff',
       icons: [
         {
-          src: '/192.png',
+          src: '/PomodoroTask/192.png',
           sizes: '192x192',
           type: 'image/png',
         },
