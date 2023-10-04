@@ -1,11 +1,16 @@
 <script setup lang="ts">
-import Timer from './components/Timer.vue';
 import Quoting from './components/Quoting.vue';
+import TaskList from './components/TaskList.vue';
+import Settings from './components/Settings.vue';
+import Pomodoro from './components/Pomodoro.vue';
 </script>
 
 <template>
   <div id="app">
-    <Timer :min=25></Timer>
+    <img  src="./assets/engrenage.svg" alt="engrenage" class="setting_icon">
+    <Pomodoro></Pomodoro> 
+    <Settings></Settings>
+    <TaskList></TaskList>
     <Quoting></Quoting>
   </div>
 </template>
@@ -17,5 +22,20 @@ import Quoting from './components/Quoting.vue';
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #fbfbfb;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+.setting_icon{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 2em;
+  height: 2em;
+  margin: .5em;
+  cursor: pointer;
 }
 </style>

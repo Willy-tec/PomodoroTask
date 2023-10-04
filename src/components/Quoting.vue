@@ -18,7 +18,7 @@ const quote = ref(quotes[Math.floor(Math.random() * quotes.length)])
     border: 1px solid black;
     border-radius: 4px;
     font-size: .5rem;
-    background-color: azure;
+    margin: .5rem;
     color: black;
 }
 </style>
