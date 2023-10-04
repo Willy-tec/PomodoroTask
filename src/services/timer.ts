@@ -47,7 +47,7 @@ export class Timer {
                     this.onTimerComplete(()=> console.log("Timer Complete: ", this.elapsedTime, "ms"));
                 }
             }
-        }, 100)
+        }, 100) as unknown as number;
     }
     stopTimer() {
         this.isRunning = false;
