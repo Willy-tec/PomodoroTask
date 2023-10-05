@@ -24,7 +24,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "tsc --noEmit"
+      "pre-push": "vite build"
     }
   }
 }
