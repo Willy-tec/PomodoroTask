@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "short_description": "Exercices de respiration",
+      "long_description": "La respiration profonde peut vous aider à vous détendre rapidement. Essayez des exercices de respiration profonde pour réduire le stress et vous sentir plus calme.",
+      "efficiency": 4
+    },
+    {
+      "id": 2,
+      "short_description": "Étirez-vous",
+      "long_description": "Faites quelques étirements rapides pour relâcher la tension musculaire. Cela peut vous aider à vous sentir plus détendu et énergisé.",
+      "efficiency": 3
+    },
+    {
+      "id": 3,
+      "short_description": "Méditation de pleine conscience",
+      "long_description": "Consacrez quelques minutes à la méditation de pleine conscience. Cela peut vous aider à vous recentrer, à réduire le stress et à augmenter votre concentration.",
+      "efficiency": 5
+    },
+    {
+      "id": 4,
+      "short_description": "Boire de l'eau ou une tisane",
+      "long_description": "Restez hydraté en buvant de l'eau ou une tisane légère. Cela peut vous aider à vous rafraîchir et à vous hydrater.",
+      "efficiency": 4
+    },
+    {
+      "id": 5,
+      "short_description": "Marche rapide",
+      "long_description": "Si possible, faites une courte promenade à l'extérieur. L'air frais et la lumière du jour peuvent vous revitaliser.",
+      "efficiency": 5
+    },
+    {
+      "id": 6,
+      "short_description": "Écouter de la musique apaisante",
+      "long_description": "Écoutez de la musique douce ou des sons de la nature pour vous détendre et vous échapper brièvement de votre travail.",
+      "efficiency": 4
+    },
+    {
+      "id": 7,
+      "short_description": "Jouer à des jeux de réflexion",
+      "long_description": "Si cela vous aide à vous détendre, vous pouvez jouer à des jeux de réflexion rapides, comme des casse-têtes, pour occuper votre esprit.",
+      "efficiency": 3
+    },
+    {
+      "id": 8,
+      "short_description": "Écrire dans un journal",
+      "long_description": "Prenez quelques minutes pour noter vos pensées, idées ou ce que vous avez accompli pendant la session de travail. Cela peut vous aider à vider votre esprit et à vous préparer mentalement pour la prochaine session.",
+      "efficiency": 4
+    },
+    {
+      "id": 9,
+      "short_description": "Regarder par la fenêtre",
+      "long_description": "Prenez quelques instants pour regarder par la fenêtre et observer ce qui se passe à l'extérieur. Cela peut être une façon agréable de faire une pause mentale.",
+      "efficiency": 3
+    },
+    {
+      "id": 10,
+      "short_description": "Bavarder avec un collègue",
+      "long_description": "Si vous travaillez en équipe, discuter brièvement avec un collègue peut être une manière agréable de socialiser et de vous détendre.",
+      "efficiency": 2
+    }
+  ]
