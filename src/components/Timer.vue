@@ -44,6 +44,7 @@ function togglePlay() {
     }
 }
 watch(props, () => {
+    console.log('props changed')
     timer.value = new Timer({min:props.min, sec:props.sec}, celebrate)
     timer.value.startTimer()
 },{deep:true} )
