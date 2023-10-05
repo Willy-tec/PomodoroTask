@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue'
+import { ref } from 'vue'
 import { Timer } from '../services/timer.ts'
 import confetti from 'canvas-confetti'
 import audioSrc from '../assets/success.mp3'
