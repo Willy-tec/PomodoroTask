@@ -10,6 +10,7 @@ const actualState = ref<TimerState>(TimerState.WORK)
 const workCycleComplete = ref(0)
 
 function changeState() {
+    running.value = true
     if (actualState.value == TimerState.WORK) {
         workCycleComplete.value++
         if (workCycleComplete.value % settings.value.longBreakInterval == 0) {
@@ -23,6 +24,9 @@ function changeState() {
     else actualState.value = TimerState.WORK
 }
 const currentTimer = computed(() => {
+    if (settings.value.debug) return {
+        min: 0, sec: 4
+    }
     switch (actualState.value) {
         case TimerState.WORK:
             return { min: settings.value.workTime, sec: 0 }
@@ -32,6 +36,7 @@ const currentTimer = computed(() => {
             return { min: settings.value.longBreakTime, sec: 0 }
     }
 })
+
 </script>
 
 

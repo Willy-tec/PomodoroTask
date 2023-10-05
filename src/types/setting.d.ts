@@ -5,4 +5,6 @@ export interface Settings  {
     longBreakInterval:number;
     volume:number;
     animation:boolean;
+
+    debug:boolean;
   }
