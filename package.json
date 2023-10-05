@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "type-check": "vue-tsc --noEmit"  
   },
   "dependencies": {
     "canvas-confetti": "^1.7.0",
@@ -24,7 +25,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "vite build"
+      "pre-commit": "type-check"
     }
   }
 }
