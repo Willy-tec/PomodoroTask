@@ -6,7 +6,6 @@ import audioSrc from '../assets/success.mp3'
 const props = defineProps<{ min: number, sec: number, audioVolume: number, confetti: boolean, running: boolean }>()
 const emitTimerSuccess = defineEmits(['timerSuccess'])
 
-console.log('still debugging pwa')
 function playNotificationSound() {
     const audio = new Audio(audioSrc)
     audio.volume = props.audioVolume
@@ -27,7 +26,6 @@ function celebrate() {
     playNotificationSound()
     timer.value.laps++
     emitTimerSuccess('timerSuccess')
-    console.log('celebrate success')
 }
 
 const timer = ref(new Timer({ min: props.min, sec: props.sec }, celebrate))
@@ -45,11 +43,7 @@ function togglePlay() {
         timer.value.stopTimer()
     }
 }
-// watch(props, () => {
-//     console.log('props changed')
-//     timer.value = new Timer({ min: props.min, sec: props.sec }, celebrate)
-//     timer.value.startTimer()
-// },)
+
 </script>
 
 <template>
